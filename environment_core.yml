@@ -1,0 +1,17 @@
+name: dsd_converge_2025_core
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyterlab
+  - ipykernel
+  - pip
+  - lime
+  - category_encoders
